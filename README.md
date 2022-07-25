@@ -1,4 +1,4 @@
-### Olá, sou o Lucas Amaral 😛
+<h1> Olá, sou o Lucas Amaral 😛</h1>
 
 
 - 🌱 Cursando o ensino medio/tecnico de informática no CEFET-RJ
