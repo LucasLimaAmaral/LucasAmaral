@@ -5,6 +5,7 @@
 - 🌱 Cursando o ensino medio/tecnico de informática no CEFET-RJ
 - 🎨 Desenvolvedor Front-end
 - 😉  pronomes: Ele/Dele
+- 📭 amaraldelimalucas@gmail.com
 
 ##
 
