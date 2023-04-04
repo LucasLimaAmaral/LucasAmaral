@@ -3,8 +3,7 @@
 
 
 - 🌱 Cursando o ensino medio/tecnico de informática no CEFET-RJ
-- 🎨 Desenvolvedor Front-end
-- 😉  pronomes: Ele/Dele
+- 🎨 Desenvolvedor em busca do full stack
 - 📭 amaraldelimalucas@gmail.com
 
 ##
