@@ -4,7 +4,6 @@
 
 - 🌱 Formado pelo ensino medio/tecnico de informática no CEFET-RJ
 - Atualmente cursando ciência da computação(Universidade Veiga de Almeida)
-- 🎨 Desenvolvedor em busca do full stack
 - 📭 amaraldelimalucas@gmail.com
 
 ##
