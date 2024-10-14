@@ -2,8 +2,8 @@
 <h1> Olá, sou o Lucas Amaral 😛</h1>
 
 
-- 🌱 Formado pelo ensino medio/tecnico de informática no CEFET-RJ
-- Atualmente cursando ciência da computação(Universidade Veiga de Almeida)
+- 🌱 Cursando ciência da computação(Universidade Veiga de Almeida)
+- 👨‍🎓 Formado pelo ensino medio/tecnico de informática no CEFET-RJ 
 - 📭 amaraldelimalucas@gmail.com
 
 ##
