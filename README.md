@@ -1,5 +1,5 @@
 <img width="280" src="https://cdn.discordapp.com/attachments/903112922174197763/1001155186632429698/insonia-da-literatura-14511253-071020182105.gif">
-<h1> Olá, sou o Lucas Amaral 😛</h1>
+<h1> Olá, sou o Lucas Amaral</h1>
 
 
 - 🌱 Cursando ciência da computação(Universidade Veiga de Almeida)
